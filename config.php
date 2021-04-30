@@ -1,6 +1,6 @@
 <?php
 
-const token = "1787536496:AAH9-MkSF-flRqbtg7kHj4cnTicwAhZ3jOo"; // get from telegram botfather
+const token = "1638153727:AAFtjAbDs_RWF_UXYMeS88bUT9FEENMaq6Q"; // get from telegram botfather
 
 const SVIP_BDUSS = ""; // get from pan.baidu.com 
 
